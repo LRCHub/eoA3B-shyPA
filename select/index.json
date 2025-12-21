@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "光の中へ",
+  "base_artist": "結束バンド",
+  "createdAt": "2025-12-21T10:04:43.758558Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "光の中へ",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/01_光の中へ_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "光の中へ",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/02_光の中へ_結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "光の中へ",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/03_光の中へ_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hikari no Naka e [光の中へ]",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/04_Hikari_no_Naka_e_[光の中へ]_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "光の中へ",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/05_光の中へ_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "光の中へ -恒星- Live ver.",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/06_光の中へ_-恒星-_Live_ver._結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "光の中へ -恒星- Live ver.",
+      "artist": "結束バンド (青山吉能, 鈴代紗弓, 水野朔, 長谷川育美)",
+      "has_synced": true,
+      "path": "select/07_光の中へ_-恒星-_Live_ver._結束バンド_(青山吉能,_鈴代紗弓,_水野朔,_長谷川育美).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "光の中へ - Into the Light",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/08_光の中へ_-_Into_the_Light_kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "光の中へ -Life stories Mix-",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/09_光の中へ_-Life_stories_Mix-_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "光の中へ",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/10_光の中へ_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "光の中へ",
+      "artist": "kessoku band",
+      "has_synced": true,
+      "path": "select/11_光の中へ_kessoku_band.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "光の中へ",
+      "artist": "坂本　真綾",
+      "has_synced": true,
+      "path": "select/12_光の中へ_坂本_真綾.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "光の中へ",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/13_光の中へ_AKB48.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "光の中へ",
+      "artist": "結束バンド",
+      "has_synced": false,
+      "path": "select/pl_01_光の中へ_結束バンド.txt"
+    }
+  ]
+}
